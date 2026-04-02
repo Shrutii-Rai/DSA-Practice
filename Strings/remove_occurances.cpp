@@ -2,7 +2,7 @@ Leetcode - Remove all occurances of the substring
 Difficulty - Medium
 https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/
 
-class Solution {
+class Remove{
 public:
     string removeOccurrences(string s, string part) {
         while (s.length()>0 && s.find(part)<s.length()){
