@@ -2,7 +2,7 @@ Leetcode - Move zeroes to end of a sorted array
 Difficulty - Easy
 https://leetcode.com/problems/move-zeroes/description/
 
-class Solution {
+class zeroes{
 public:
     void moveZeroes(vector<int>& nums) {
         int j = -1;
