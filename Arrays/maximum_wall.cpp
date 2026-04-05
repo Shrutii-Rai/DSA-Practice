@@ -2,7 +2,7 @@ Leetcode - Maximum walls destroyed by robots
 Difficulty - hard
 https://leetcode.com/problems/maximum-walls-destroyed-by-robots/description/
 
-class Solution {
+class wall {
 public:
     int n;
     vector<array<int,2>> arr;
