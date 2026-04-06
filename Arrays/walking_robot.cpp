@@ -2,7 +2,7 @@ Leetcode - Walking robot simulation
 Difficulty - Medium
 https://leetcode.com/problems/walking-robot-simulation/description/?envType=daily-question&envId=2026-04-06
 
-class Solution {
+class robot {
 public:
     int robotSim(vector<int>& commands, vector<vector<int>>& obstacles) {
         // Direction vectors: North, East, South, West
