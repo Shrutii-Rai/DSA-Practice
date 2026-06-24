@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
