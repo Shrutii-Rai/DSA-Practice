@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0035-search-insert-position) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
