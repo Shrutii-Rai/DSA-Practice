@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0031-next-permutation) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
