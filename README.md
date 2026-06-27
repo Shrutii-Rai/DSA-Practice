@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0035-search-insert-position) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0175-combine-two-tables) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
