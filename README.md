@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0035-search-insert-position) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 ## Math
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0031-next-permutation) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Database
 |  |
 | ------- |
@@ -93,11 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -136,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -150,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
