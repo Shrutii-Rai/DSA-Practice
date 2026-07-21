@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0035-search-insert-position) |
 | [1288-remove-covered-intervals](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1288-remove-covered-intervals) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0031-next-permutation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Database
