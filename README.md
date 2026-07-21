@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0039-combination-sum) |
 | [1288-remove-covered-intervals](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
