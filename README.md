@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0035-search-insert-position) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0039-combination-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
