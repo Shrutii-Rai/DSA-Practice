@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -214,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
