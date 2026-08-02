@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0039-combination-sum) |
 | [0486-predict-the-winner](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3620-network-recovery-pathways) |
@@ -255,4 +258,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
