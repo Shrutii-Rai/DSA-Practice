@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -275,14 +279,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Number Theory
 |  |
