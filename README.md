@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1140-stone-game-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shrutii-Rai/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
